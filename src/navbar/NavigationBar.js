@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { DensityMedium, Clear } from "@mui/icons-material";
 import ClubLogo from "../asset/images/club-logo.png";

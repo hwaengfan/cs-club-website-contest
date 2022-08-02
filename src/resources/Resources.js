@@ -1,10 +1,6 @@
-import { BookOnline } from "@mui/icons-material";
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import "./resources.css";
-import Tutorials from "./Tutorials";
-import Research from "./Research";
-import Organizations from "./Organizations";
 
 function Resources() {
 	return (
